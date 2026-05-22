@@ -1,0 +1,12 @@
+export { FaqPage } from './pages/FaqPage';
+export { ContactPage } from './pages/ContactPage';
+export { NoticePage } from './pages/NoticePage';
+export { MyPage } from './pages/MyPage';
+export { RegisterPage } from './pages/RegisterPage';
+export { LoginPage } from './pages/LoginPage';
+export { ReviewsPage } from './pages/ReviewsPage';
+export { CartPage } from './pages/CartPage';
+export { CheckoutPage } from './pages/CheckoutPage';
+export { OrderSuccessPage } from './pages/OrderSuccessPage';
+export { MyReviewsPage } from './pages/MyReviewsPage';
+export { EditProfilePage } from './pages/EditProfilePage';
